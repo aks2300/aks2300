@@ -1,7 +1,10 @@
-# Hi there, I am Aung Kaung Sett.
+#  👋 Hi there, I am Aung Kaung Sett.
 
-I like to take a photo when in free time.
+## About Me
+I'm learning about data science and analytics at the moment.
+I love innovations in tech and do photography whenever I got free time.
 
+## My Analytics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aks2300&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aks2300&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
