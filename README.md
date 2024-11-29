@@ -1,7 +1,7 @@
 #  👋 Hi there, I am Aung Kaung Sett.
 
 ## About Me
-I'm learning about data science and analytics at the moment.
+I'm learning about data science and analytics at the moment. <br>
 I love innovations in tech and do photography whenever I got free time.
 
 ## My Analytics
