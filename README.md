@@ -1,5 +1,7 @@
 #  👋 Hello there, I am Aung Kaung Sett.
-<a href = "/"><img src = "https://skillicons.dev/icons?i=gmail"></a>
+<a href = "#"><img src = "https://skillicons.dev/icons?i=gmail"></a>
+<a href = "#"><img src = "https://skillicons.dev/icons?i=linkedin"></a>
+<a href = "#"><img src = "https://skillicons.dev/icons?i=discord"></a>
 <br>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aks2300)
 
