@@ -1,4 +1,6 @@
 #  👋 Hi there, I am Aung Kaung Sett.
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aks2300) Connect Me On :
+
 
 ## About Me
 I'm learning about data science and analytics at the moment. <br>
