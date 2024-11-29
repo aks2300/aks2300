@@ -1,10 +1,13 @@
-## Hi there, I am Aung Kaung Sett.
+#### Hi there, I am Aung Kaung Sett.
 
 I like to take a photo when in free time.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aks2300&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aks2300&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![logo](https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_16x16.png)
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 <!--
 **aks2300/aks2300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
