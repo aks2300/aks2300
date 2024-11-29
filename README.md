@@ -1,5 +1,8 @@
-#  👋 Hi there, I am Aung Kaung Sett.
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aks2300) Connect Me On :
+#  👋 Hello there, I am Aung Kaung Sett.
+<p style = "align : center">
+  <a href = "/">[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
+</p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aks2300)
 
 
 ## About Me
