@@ -1,8 +1,7 @@
 #  👋 Hello there, I am Aung Kaung Sett.
-<p style = "align : center">
-  <a href = "/" src = "https://skillicons.dev/icons?i=gmail"></a>
-</p>
-[![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aks2300)
+<a href = "/" src = "https://skillicons.dev/icons?i=gmail"></a>
+<br>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aks2300)
 
 
 ## About Me
