@@ -16,7 +16,7 @@ I love innovations in tech and do photography whenever I got free time.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aks2300&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,c,mysql,flask,html,css,git,github,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,mysql,flask,html,css,git,github,vscode,jupyter&perline=5)](https://skillicons.dev)
 <br>
 <br>
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aks2300)
