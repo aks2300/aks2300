@@ -12,7 +12,7 @@ I'm learning about data science and analytics at the moment. <br>
 I love innovations in tech and do photography whenever I got free time.
 
 ## My Analytics
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aks2300)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aks2300?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aks2300&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
